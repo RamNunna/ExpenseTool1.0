@@ -1,5 +1,6 @@
 ﻿using System.Web.Http;
 using System.Web.Http.Cors;
+using static ExpenseApp.API.TokenValidator;
 
 namespace ExpenseApp.Web
 {
@@ -10,9 +11,9 @@ namespace ExpenseApp.Web
             // Web API configuration and services
             EnableCorsAttribute cors = new EnableCorsAttribute("*", "*", "*");
             config.EnableCors(cors);
+
             // Web API routes
             config.MapHttpAttributeRoutes();
-            
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",

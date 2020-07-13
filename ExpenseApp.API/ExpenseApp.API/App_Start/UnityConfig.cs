@@ -16,6 +16,8 @@ namespace ExpenseApp.Web
             var container = new UnityContainer();
             container.RegisterType<IUserRepository, UserRepository>();
             container.RegisterType<IUserManager, UserManager>();
+            container.RegisterType<IExpenseRepository, ExpenseRepository>();
+            container.RegisterType<IExpenseManager, ExpenseManager>();
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }
     }

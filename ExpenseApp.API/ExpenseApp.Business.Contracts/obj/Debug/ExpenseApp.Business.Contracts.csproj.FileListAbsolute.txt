@@ -6,3 +6,11 @@ E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Business.Contracts\o
 E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Business.Contracts\bin\Debug\ExpenseApp.Models.dll
 E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Business.Contracts\bin\Debug\ExpenseApp.Models.pdb
 E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Business.Contracts\obj\Debug\ExpenseApp.Business.Contracts.csproj.CopyComplete
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\bin\Debug\ExpenseApp.Business.Contracts.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\bin\Debug\ExpenseApp.Business.Contracts.pdb
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\bin\Debug\ExpenseApp.Models.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\bin\Debug\ExpenseApp.Models.pdb
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\obj\Debug\ExpenseApp.Business.Contracts.csprojAssemblyReference.cache
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\obj\Debug\ExpenseApp.Business.Contracts.csproj.CopyComplete
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\obj\Debug\ExpenseApp.Business.Contracts.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Business.Contracts\obj\Debug\ExpenseApp.Business.Contracts.pdb

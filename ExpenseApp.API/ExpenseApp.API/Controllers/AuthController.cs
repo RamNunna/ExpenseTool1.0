@@ -21,7 +21,6 @@ namespace ExpenseApp.Web
             _userManager = userManager;
         }
         [HttpPost]
-        [HttpOptions]
         [Route("register")]
         public async Task<bool> Register([FromBody]User user)
         {
@@ -29,13 +28,12 @@ namespace ExpenseApp.Web
         }
         [HttpPost]
         [Route("login")]
-        [HttpOptions]
         public async Task<IHttpActionResult> Login([FromBody]UserDto userModel)
         {
             var user = await _userManager.AuthenticateUser(userModel.EmailId, userModel.Password);
 
-            //if (user == null)
-            //    return BadRequest(new { message = "Username or password is incorrect" });
+            if (user == null)
+                return BadRequest("Username or password are incorrect");
 
             return Ok(user);
         }

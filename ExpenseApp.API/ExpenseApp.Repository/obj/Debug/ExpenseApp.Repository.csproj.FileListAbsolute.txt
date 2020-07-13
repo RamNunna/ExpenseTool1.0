@@ -10,3 +10,15 @@ E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Repository\bin\Debug
 E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Repository.Contracts.pdb
 E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\Dapper.xml
 E:\Angular_Samples\ExpenseTool1.0\ExpenseApp.API\ExpenseApp.Repository\obj\Debug\ExpenseApp.Repository.csproj.CopyComplete
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Repository.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Repository.pdb
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\Dapper.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Models.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Repository.Contracts.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Models.pdb
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\ExpenseApp.Repository.Contracts.pdb
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\bin\Debug\Dapper.xml
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\obj\Debug\ExpenseApp.Repository.csprojAssemblyReference.cache
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\obj\Debug\ExpenseApp.Repository.csproj.CopyComplete
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\obj\Debug\ExpenseApp.Repository.dll
+E:\Angular_Samples\ExpenseTool1.1\ExpenseApp.API\ExpenseApp.Repository\obj\Debug\ExpenseApp.Repository.pdb
