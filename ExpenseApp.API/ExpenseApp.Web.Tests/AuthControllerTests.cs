@@ -20,7 +20,6 @@ namespace ExpenseApp.Web.Tests
             _userRepository = new UserRepository();
             _userManager = new UserManager(_userRepository);
             _authController = new AuthController(_userManager);
-
         }
         [Fact]
         public async Task LoginWithGoodCredintials()
